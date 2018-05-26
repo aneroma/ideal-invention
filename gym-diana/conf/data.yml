@@ -1,0 +1,45 @@
+Assessment(a1):
+   weight: 123.3
+   chest: 45.0
+   thigh: 12.5
+   upperarm: 23.3
+   waist: 32
+   hips: 38
+
+Assessment(a2):
+   weight: 123.3
+   chest: 45.0
+   thigh: 12
+   upperarm: 23.3
+   waist: 31
+   hips: 36
+
+Member(m1):
+  email: diana@diana.com
+  password: 1234
+  name: Diana Diana
+  address: Kilkenny, Kilkenny
+  gender: Female
+  height: 1.6
+  startingweight: 65
+  assessments:
+  - a1
+  - a2
+
+Member(m2):
+  email: ionut@ionut.com
+  password: 1234
+  name: Ionut Ionut
+  address: Kilkenny, Kilkenny
+  gender: Male
+  height: 1.9
+  startingweight: 110
+
+Member(m3):
+  email: morena@morena.com
+  password: 1234
+  name: Morena Morena
+  address: Kilkenny, Kilkenny
+  gender: Female
+  height: 1.6
+  startingweight: 55
